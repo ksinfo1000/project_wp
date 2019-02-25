@@ -1,0 +1,18 @@
+#change_wrap_div{ background-repeat: repeat} body{ background-repeat: repeat-y} #footer, #sub-footer{ background-repeat: repeat-y} .border-radius {
+ -moz-border-radius: 5px; /* закругление для старых Mozilla Firefox */
+ -webkit-border-radius: 5px; /* закругление для старых Chrome и Safari */
+ -khtml-border-radius: 5px; /* закругл. для браузера Konquerer системы Linux */
+ border-radius: 5px; /* закругление углов для всех, кто понимает */
+}
+
+#top-panel .top-info.application {
+    padding-top: 0px;
+}
+
+
+
+
+
+
+
+

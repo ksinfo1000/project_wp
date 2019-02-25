@@ -1,0 +1,11 @@
+[11-Oct-2015 18:16:50 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/kozhe37/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[18-Jan-2016 05:32:00 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/kozhe37/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[20-May-2016 20:27:17 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/kozhe37/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[22-May-2016 18:17:26 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/kozhe37/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[04-Jan-2017 08:48:20 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/kozhe37/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[06-Mar-2017 13:52:39 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/kozhe37/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[09-Aug-2017 22:01:18 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/kozhe37/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[09-Aug-2017 22:03:32 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/kozhe37/public_html/wp-content/themes/twentyfourteen/index.php on line 17
+[06-Feb-2018 15:32:03 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/kozhe37/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[08-Feb-2018 20:22:36 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/kozhe37/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[17-Jul-2018 08:36:54 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/kozhe37/public_html/wp-content/themes/twentyfourteen/404.php on line 10
