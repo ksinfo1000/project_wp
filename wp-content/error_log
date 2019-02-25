@@ -1,0 +1,2 @@
+[15-Oct-2017 07:50:08 UTC] PHP Warning:  include(WP_CONTENT_DIR/plugins/hyper-cache-extended/cache.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/kozhe37/public_html/wp-content/advanced-cache.php on line 24
+[15-Oct-2017 07:50:08 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'WP_CONTENT_DIR/plugins/hyper-cache-extended/cache.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/kozhe37/public_html/wp-content/advanced-cache.php on line 24

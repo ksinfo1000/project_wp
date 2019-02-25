@@ -1,0 +1,1 @@
+[05-Nov-2015 15:41:30 UTC] PHP Fatal error:  Call to undefined function load_plugin_textdomain() in /home/kozhe37/public_html/wp-content/plugins/html5-jquery-audio-player/index.php on line 14
